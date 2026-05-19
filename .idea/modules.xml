@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sef.iml" filepath="$PROJECT_DIR$/sef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w09-uml-to-code/w09-uml-to-code.iml" filepath="$PROJECT_DIR$/w09-uml-to-code/w09-uml-to-code.iml" />
     </modules>
   </component>
 </project>
